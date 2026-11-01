@@ -1,6 +1,7 @@
 /* una compaañia de viajes cuenta con 3 tipos de autobuses a,b y c cada uno tiene un precioso por kilometro
 recorrido por persona los costos respectivos son 2,2.50 y 3 pesos se requiere determinar el costo total
-y poir persona del viaje considerando que cuando  */
+y poir persona del viaje considerando que cuando este se presupuesta debe de aver 
+minimo 20 personas,de lo contrario el cobro se realiza con base a este numero limite.*/
 
 
 #include <stdio.h>
